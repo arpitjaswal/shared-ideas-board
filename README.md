@@ -1,2 +1,2 @@
-#shared ideas board
-##discover ideas with your loved ones.
+# shared ideas board
+discover ideas with your loved ones.
